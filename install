@@ -33,5 +33,4 @@ fi
 # Install drivers and setup epaper
 papirus-setup
 
-# Remove whiptail and reboot directly
-reboot
+# Remove whiptail, reboot later
